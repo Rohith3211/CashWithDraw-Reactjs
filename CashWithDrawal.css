@@ -1,0 +1,62 @@
+.back-card {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  background: #150b3e;
+
+  width: 320px;
+  border-radius: 8px;
+  color: white;
+  padding: 20px;
+
+  display: flex;
+  flex-direction: column;
+}
+
+.card1 {
+  display: flex;
+  align-items: center;
+}
+
+.circle {
+  background-color: #c7d2fe;
+  width: 50px;
+  height: 50px;
+  border-radius: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #585076;
+}
+
+.sarah {
+  margin-left: 15px;
+}
+.card2 {
+  display: flex;
+  justify-content: space-between;
+}
+.in-rupees {
+  font-size: 8px;
+  color: #585076;
+}
+.p {
+  color: #585076;
+}
+.paragraph {
+  font-size: 20px;
+  color: white;
+}
+.with {
+  font-size: 13px;
+  color: #585076;
+}
+.but-card {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+}
